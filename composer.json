@@ -1,0 +1,22 @@
+{
+    "name": "steinhaug/smarty-templates-block-compressor",
+    "description": "Smarty template assets compressor plugin",
+    "keywords": ["minify", "minifier", "css", "js", "javascript", "Smarty Templates", "Plugin"],
+    "homepage": "https://github.com/steinhaug/smarty-templates-block-compressor",
+    "type": "smarty-templates-block-compressor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kim Steinhaug",
+            "email": "kim@steinhaug.com",
+            "homepage": "http://kim.steinhaug.com/",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }    
+}
