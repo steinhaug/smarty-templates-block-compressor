@@ -1,6 +1,6 @@
 # Smarty templates block compressor
 
-[![License](https://github.com/steinhaug/smarty-templates-block-compressor/.../minify.svg)](https://github.com/steinhaug/smarty-templates-block-compressor/blob/master/LICENSE)
+[![License](https://raw.githubusercontent.com/steinhaug/smarty-templates-block-compressor/master/src/assets/minify.svg)](https://github.com/steinhaug/smarty-templates-block-compressor/blob/master/LICENSE)
 
 Dropin plugin for Smarty Templates to compress inline blocks of CSS, javascript or HTML. The compression used for this plugin relies the [minifier.org](https://www.minifier.org/) PHP library.
 
