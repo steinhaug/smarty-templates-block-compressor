@@ -3,7 +3,7 @@
     "description": "Smarty template assets compressor plugin",
     "keywords": ["minify", "minifier", "css", "js", "javascript", "Smarty Templates", "Plugin"],
     "homepage": "https://github.com/steinhaug/smarty-templates-block-compressor",
-    "type": "smarty-templates-block-compressor",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
